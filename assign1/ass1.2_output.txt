@@ -1,0 +1,12 @@
+Cipher text : RBIABDIGTPSZ
+Plain text : adkhsbgnqofw
+
+Cipher text : QMBGDTYASKCZXKPKCIDUICTPYBQM
+Plain text : tkekrmxrbjlvqbqjhgftghqoxdtk
+
+Cipher text : REBSLUMNGYXYNBLFCR
+Plain text : cdseznkmmvwxkfzlla
+
+Cipher text : QTBPCPSCDZLXYBQTDMYIKDTKUFGEQDSIYEITBQGYGDGAKW
+Plain text : pqsqhoehfyazxdpqrdwmmbqmnlectbhsvdmpakmvmekcjx
+

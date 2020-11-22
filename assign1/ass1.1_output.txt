@@ -1,0 +1,12 @@
+Plain text : the shipment will arrive at noon
+Cipher text : PRSBSPTJFGPYNHCRAYHMCGRQGUUG
+
+Plain text : lay low until friday
+Cipher text : CRZRPVZUPMFNHMBRZY
+
+Plain text : always use the back door
+Cipher text : RCXHWDPFDOCSKBAGETTC
+
+Plain text : the phone is bugged
+Cipher text : PRSOCPGFPJFQKVOGBY
+
